@@ -10,8 +10,8 @@
         <PasswordBox Name="PassBox" HorizontalAlignment="Left" Margin="300,246,0,0" VerticalAlignment="Top" Width="379"/>
         <Label Name="putthethings" Content="puo you r password bank creditcart detail;s in the bpx and clik sumit fore jefferyson video!!1" HorizontalAlignment="Left" Margin="309,165,0,0" VerticalAlignment="Top"/>
         <Button Name="submitbttn" Click="brofellforit" Content="submittin" HorizontalAlignment="Left" Margin="300,305,0,0" VerticalAlignment="Top" FontFamily="Impact" FontSize="72" FontWeight="Bold"/>
-        <Label Content="DISCLAIMER: CHECK THE SOURCE CODE AND SEE THERE IS NO WAY I CAN GET ANY DETAILS" HorizontalAlignment="Left" Margin="10,671,0,0" VerticalAlignment="Top" FontSize="10"/>
-        <Image Name="jeff" Visibility="Hidden" Margin="432,85,476,279" Source="/a4256d97292462395c4bcf2587771613.gif" Stretch="Fill"/> 
+        <Label Content="DISCLAIMER: CHECK THE SOURCE CODE AND SEE THERE IS NO WAY I CAN GET ANY DETAILS" HorizontalAlignment="Left" Margin="10,487,0,0" VerticalAlignment="Top" FontSize="10"/>
+        <Image Name="jeff" Visibility="Hidden" Margin="432,85,476,279" Source="/a4256d97292462395c4bcf2587771613.gif" Stretch="Fill"/>
 
 
     </Grid>
