@@ -24,5 +24,12 @@ namespace jeffery
         {
             InitializeComponent();
         }
+        private void brofellforit(object sender, RoutedEventArgs e)
+        {
+            putthethings.Visibility = Visibility.Hidden;
+            submitbttn.Visibility = Visibility.Hidden;
+            PassBox.Visibility = Visibility.Hidden;
+            jeff.Visibility = Visibility.Visible;
+        }
     }
 }
